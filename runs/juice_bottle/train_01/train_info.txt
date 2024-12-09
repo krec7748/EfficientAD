@@ -1,0 +1,4 @@
+dataset: ./dataset
+subdataset: juice_bottle
+model_size: medium
+epochs: 200

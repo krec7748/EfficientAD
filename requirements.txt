@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.2.2+cu118
+numpy==1.24.1
+opencv-python>=4.1.0
+Pillow>=10.0.1
+ultralytics==8.2.2
+tqdm
+scikit-learn==1.5.2
